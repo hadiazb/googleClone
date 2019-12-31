@@ -74,7 +74,18 @@ li a:hover{
   padding-top: 10px;
   height: 30px;
 }
-
+.botones{
+  margin-left: 485px
+}
+button{
+  margin-top: 5px;
+  margin-left: 10px;
+  width: 180px;
+  height: 30px;
+  border-radius: 5px;
+  background-color: #dfe1e5;
+  color: rgb(53, 52, 54);
+}
 
 
 footer{
